@@ -1,0 +1,12 @@
+#mainpic {
+    length: auto;
+    width: 600px;
+    float: right;
+}
+
+.button {
+    color: black;
+    background-color: cornsilk;
+    font-weight: 800;
+    font-size: 25;
+}
